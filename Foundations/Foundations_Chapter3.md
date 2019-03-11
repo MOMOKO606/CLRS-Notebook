@@ -1,5 +1,5 @@
 
-![CLRS_Chapter3](http://wx4.sinaimg.cn/large/7063aec9ly1g0yn8bjyq7j20tk2gw19l.jpg)
+![CLRS_Chapter3](http://wx3.sinaimg.cn/large/7063aec9ly1g0yyleymshj20ty2h4aqz.jpg)
 
 
 
