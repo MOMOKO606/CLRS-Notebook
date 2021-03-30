@@ -1,2 +1,5 @@
-# CLRS-Notebook
-All the notes written in OneNote2013 when I was studying CLRS in 2014.
+# My CLRS study notes 
+🤓🤓🤓
+This repository records my study notes when I first started to learn the "Introduction to Algorithms (CLRS) " when I was a postgraduate student several years ago.
+
+😜😜😜
